@@ -1,0 +1,9 @@
+# WorkBuddy 项目元数据
+.workbuddy/
+
+# 测试/临时文件
+_*.png
+_*_*.html
+_report_test.html
+_srv*.log
+_t.js
